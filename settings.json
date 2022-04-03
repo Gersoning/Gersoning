@@ -5,6 +5,7 @@
     "workbench.colorCustomizations": {
         "[Default Dark+]": {
             "editorIndentGuide.activeBackground": "#0224bd",
+            "editorIndentGuide.background": "#0224bd1e",
             "editor.background": "#000000",
             "editorLineNumber.activeForeground": "#0224bd",
             "editorLineNumber.foreground": "#0224bd49",
@@ -65,18 +66,19 @@
             "menubar.selectionBackground": "#0224bd33",
 
             "notifications.background": "#000000",
-
-
+            "tab.border": "#0224bd",
+            "editorGroupHeader.tabsBackground": "#000000",
+            "editorGroup.border": "#0224bd",
+            "editorGroupHeader.tabsBorder": "#0224bd",
             "tab.activeBackground": "#000000",
             "tab.inactiveBackground": "#000000",
             "tab.inactiveForeground": "#ffffff",
-            "tab.unfocusedActiveForeground": "#ff0000",
-            "tab.unfocusedInactiveForeground": "#ff0000",
             "tab.hoverForeground": "#ffffff",
             "tab.activeForeground": "#0224bd",
             "tab.hoverBackground": "#0224bd33",
             "tab.activeBorder": "#0224bd",
-            "tab.activeBorderTop": "#0224bd"
+            "tab.activeBorderTop": "#0224bd",
+            "tab.unfocusedActiveBackground": "#000000",
             }
     }
     ,
